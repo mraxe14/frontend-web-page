@@ -1,2 +1,1 @@
-# Codeveda-program
-Frontend task
+frontend webpage
